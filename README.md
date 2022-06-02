@@ -1,17 +1,8 @@
 # excuses_de_dev
 
-A new Flutter project.
+Generate new excuses for when your project doesn't work but it isn't your fault.
 
-## Getting Started
+# How to use
 
-This project is a starting point for a Flutter application.
+The button "Générer une excuse" will generate a new excuse from a fetched json containing many excuses. If it isn't enough, you can add a new excuse with the "Ajouter une excuse" button, which will update the json and will make your excuse immediatly available.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# excuses-de-dev
